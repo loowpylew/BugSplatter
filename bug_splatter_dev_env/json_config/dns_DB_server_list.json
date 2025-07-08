@@ -1,0 +1,11 @@
+{
+    "DNS_DB_server_list": {
+      "1": {"name": "Azure DB01", "host": "azure.com", "port": ""},
+      "2": {"name": "AWS DB01", "host": "amazonaws.com", "port": ""},
+      "3": {"name": "AWS DB02", "host": "amazonaws.com", "port": ""},
+      "4": {"name": "AWS DB03", "host": "amazonaws.com", "port": ""},
+      "5": {"name": "AWS DB04", "host": "amazonaws.com", "port": ""},
+      "6": {"name": "AWS DB05", "host": "amazonaws.com", "port": ""},
+      "7": {"name": "AWS DB06", "host": "amazonaws.com", "port": ""}
+    }
+}  

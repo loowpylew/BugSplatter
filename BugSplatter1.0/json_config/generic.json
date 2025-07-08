@@ -1,0 +1,9 @@
+{
+    "generic": {
+         "1": ["gs.loginToUserAccount"]
+         ,"2": ["gs.loginAndLoadHomePage"]
+         ,"3":  ["gs.checkHomePageloaded"]
+         ,"4": ["gs.checkInitialUserRole"]
+         ,"5": ["gs.checkUserRoleAndSwitch"]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "sys_admin": {
+        "1":"rfAdmin"
+        , "2":"rfCommon"
+        , "3":"rfDayView"
+        , "4":"rfEditors"
+        , "5":"rfGlobals"
+        , "6":"rfHomepage"
+        , "7":"rfJavascript"
+        , "8":"rfJavascript_backup"
+        , "9":"rfLogin"
+        , "10":"rfLoginAAD"
+        , "11":"rfNavigationMenu"
+        , "12":"rfQuickEntry"
+        , "13":"rfReports"
+        , "14":"rfRoster"
+        , "15":"rfTableFunctions"
+        , "16":"RotaPerformance"
+        , "17": "all"
+        , "18": "unknown"
+    }
+}

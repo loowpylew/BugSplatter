@@ -1,0 +1,13 @@
+{
+    "menu_items": { 
+        "1": ["mi.homePageLoadAdminMenuItem"] 
+        , "2": ["mi.homePageLoadManagmentMenuItem"]
+        , "3": ["mi.homePageLoadDataProcessingMenuItem"]
+        , "4": ["mi.homePageLoadBankMenuItem"]
+        , "5": ["mi.homePageLoadSelfServiceMenuItem"]
+        , "6": ["mi.homePageLoadReportsMenuItem"]
+        , "7": ["mi.homePageLoadReportsDashboardMenuItem"]
+        , "8": ["mi.homePageLoadAboutMenuItem"]
+    }
+}
+

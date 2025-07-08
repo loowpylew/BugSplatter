@@ -1,0 +1,17 @@
+{
+    "sys_admin": {
+        "1": "rfAdmin"
+        , "2": "rfCommon"
+        , "3": "rfEditors"
+        , "4": "rfGlobals"
+        , "5": "rfHomepage"
+        , "6": "rfJavascript"
+        , "7": "rfLogin"
+        , "8": "rfLoginAAD"
+        , "9": "rfNavigationMe"
+        , "10": "rfQuickEntry"
+        , "11": "rfRoster"
+        , "12": "rfTableFunctions"
+        , "13": "unknown"
+    }
+}
