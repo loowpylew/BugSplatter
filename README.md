@@ -2,8 +2,8 @@
 **Application Overview: Web Development Unit Tester**
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/8b6fe1df-16b9-4bd7-b693-56048f7f23e4" alt="Image 1" style="width: 400px; margin-right: 20px;">
-  <img src="https://github.com/user-attachments/assets/53cc5e9f-5c3d-4c52-b133-410a32176b42" alt="Image 2" style="width: 420px; height: 655px;">
+  <img src="https://github.com/user-attachments/assets/f414617d-bb84-470d-9e21-76e798bab14d" alt="Image 1" style="width: 400px; margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/66e6ce8f-311d-4fd7-8040-d4db1a9032c0" alt="Image 2" style="width: 420px; height: 655px;">
 </div>
 
 ---
